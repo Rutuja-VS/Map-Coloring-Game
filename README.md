@@ -251,3 +251,15 @@ Potential future extensions include:
 - Persistent game statistics
 - Improved UI and animations
 
+---
+
+## 📸 Screenshots
+
+### Gameplay
+![Start](images/main_screen.jpeg)
+
+### Performance
+![Gameplay](images/gameplay.jpeg)
+
+### Results
+![Results](images/results.jpeg)
